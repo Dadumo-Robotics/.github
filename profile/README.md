@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+If you want to join or see the repos of this organization please contact [@MarioCliment](https://www.github.com/MarioCliment)
+
 <!--
 
 **Here are some ideas to get you started:**
